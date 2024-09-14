@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+font-size: 30px;
+font-weight: 700;
+margin-left: 30px;
+}
+nav a{
+    color: white;
+    font-size: 3vh;
+    font-weight: 700;
+}
+nav a:hover{
+    color: black;
+    background-color: red;
+    border-radius: 10px;
+}
+nav ul{
+    margin-left: 50vh;
+}
+.carousel-caption h5{
+      /* margin-top: -20vh; */
+      font-size: 50px;
+      font-weight: 700;
+      color: #fff;
+}
+.carousel-caption .text{
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* about */
+.about-text h2{
+    color: red;
+    font-size: 30px;
+    font-weight: 700;
+}
+h2{
+    color: #000;
+}
+p{
+    color: gray;
+}
+h3{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn{
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 30px;
+}
